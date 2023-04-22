@@ -46,4 +46,4 @@ def app():
 
 if __name__ == "__main__":
     app()
-    st.session_state
+    # st.session_state
